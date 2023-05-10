@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="Pythonid" />
+    <plugin id="com.intellij.plugins.watcher" />
+    <plugin id="me.lensvol.blackconnect" min-version="0.5.0" />
+    <plugin id="org.intellij.plugins.markdown" />
+    <plugin id="org.toml.lang" />
+  </component>
+</project>

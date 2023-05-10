@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+db.sqlite3-journal
+db*.sqlite3
+db*.sqlite3-journal
+
+# Jetbrains IDE
+!.idea/
+.idea/*
+!.idea/runConfigurations
+!.idea/modules.xml
+!.idea/backend.iml
+!.idea/icon.svg
+!.idea/dataSources.xml
+!.idea/databaseColors.xml
+!.idea/externalDependencies.xml
+!.idea/startup.xml
+
+# Environments
+.env
+venv/
+.venv
+.venv-types
+
+# MacOS
+.DS_Store
+
+# requirements file (since we use pipenv)
+requirements.txt
+
+# locally uploaded files
+/media/
+
+# Mypy
+.mypy_cache
+
+# Django compiled translations
+*.mo
